@@ -21,6 +21,3 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
-<br>
-<a href="https://br.pinterest.com/franciscoheleno544/"><img height="30" src="https://aleen42.github.io/badges/src/pinterest.svg"></a>
-<a href="https://www.instagram.com/fco.heleno_348/"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
