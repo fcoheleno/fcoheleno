@@ -1,16 +1,26 @@
-## Hi there 👋
+## Olá! Eu sou o Francisco Heleno 👋
 
-<!--
-**fcoheleno/fcoheleno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Concluindo curso de Téc. Informática
+- 💻 Gosto de programação e desenvolvimento de sites
+- 📘 Em busca de mais conhecimento
+- 🐍 Estudando Python
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fcoheleno&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcoheleno&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a>
+
+##
+
+<div diplay=flex>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
+<br>
+<a href="https://br.pinterest.com/franciscoheleno544/"><img height="30" src="https://aleen42.github.io/badges/src/pinterest.svg"></a>
+<a href="https://www.instagram.com/fco.heleno_348/"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
