@@ -4,7 +4,6 @@
 - 💻 Gosto de programação e Desenvolvimento Web
 - 📘 Em busca de mais conhecimento
 - Ainda estou aprimorando as minhas habilidades em programação com pequenos projetos
-
 ---
 ## Minhas Redes Sociais
 <p align="left">
@@ -16,16 +15,13 @@
   </a>
 </p>
 ---
-
 ## 📊 GitHub Status
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fcoheleno&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcoheleno&layout=compact&theme=tokyonight" />
 </p>
-
 ---
-
 <div diplay=flex>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
