@@ -1,4 +1,4 @@
-## Olá! Eu sou o Francisco Heleno 👋
+## Olá! 👋 | Eu sou o Francisco Heleno
 
 - 🌱 Concluindo curso de Téc. Informática
 - 💻 Gosto de programação e Desenvolvimento Web
